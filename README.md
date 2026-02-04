@@ -76,6 +76,6 @@ This project is open-source and licensed under the MIT License.
 
 👨‍💻 Author
 Muhammad Mughira Asad
-Laravel Developer
+
 
 
